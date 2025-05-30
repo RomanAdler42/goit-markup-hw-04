@@ -141,10 +141,15 @@ gap: 40px;
 
 .section-hero {
     background: #2e2f42;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-bg.jpg);
     padding-top: 188px;
     padding-bottom: 188px;
     max-width: 1440px;
     margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 
 .hero-title {
