@@ -474,7 +474,7 @@ img {
 
 .footer-container {
   display: flex;
-  gap: 120px;
+  align-items: baseline
   max-width: 1158px;
   margin: 0 auto;
   align-items: flex-start;
@@ -482,6 +482,7 @@ img {
 
 .footer-logo-block {
   max-width: 264px;
+  margin-right: 120px;
 }
 
 .footer-logo {
@@ -538,7 +539,7 @@ img {
 
 .footer-socials-list {
   display: flex;
-  gap: 24px;
+  gap: 16px;
   list-style: none;
   margin: 0;
   padding: 0;
