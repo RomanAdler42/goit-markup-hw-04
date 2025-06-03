@@ -42,7 +42,6 @@ img {
 
 .header-section {
   border-bottom: 1px solid #e7e9fc;
-  max-width: 1440px;
   margin: 0 auto;
   box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 2px 1px 0 rgba(46, 47, 66, 0.08);
@@ -174,7 +173,6 @@ img {
     url(../images/hero-bg.jpg);
   padding-top: 188px;
   padding-bottom: 188px;
-  max-width: 1440px;
   margin: 0 auto;
   background-position: center;
   background-repeat: no-repeat;
@@ -224,7 +222,6 @@ img {
 .section-philosophy {
   padding-top: 120px;
   padding-bottom: 120px;
-  max-width: 1440px;
   margin: 0 auto;
 }
 
@@ -285,7 +282,6 @@ img {
   background: #f4f4fd;
   padding-top: 120px;
   padding-bottom: 120px;
-  max-width: 1440px;
   margin: 0 auto;
 }
 
@@ -383,7 +379,6 @@ img {
 .section-portfolio {
   padding-top: 120px;
   padding-bottom: 120px;
-  max-width: 1440px;
   margin: 0 auto;
 }
 
@@ -468,13 +463,11 @@ img {
 .footer {
   background: #2e2f42;
   padding: 100px 0;
-  max-width: 1440px;
   margin: 0 auto;
 }
 
 .footer-container {
   display: flex;
-
   max-width: 1158px;
   margin: 0 auto;
   align-items: flex-start;
